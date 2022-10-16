@@ -1,0 +1,5 @@
+# Your Ubuntu Vagrant machine has an SSH configuration file for the local
+# configuration in your answer file.
+ForwardAgent yes
+IdentityFile ~/.ssh/school
+PasswordAuthentication no
